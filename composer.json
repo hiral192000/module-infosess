@@ -1,11 +1,11 @@
 {
   "name": "hiral192000/module-infosess",
   "description": "Magento 2 sesstion examples",
+  "version": "2.4.1",
   "require": {
     "php": ">=7.3.0"
   },
   "type": "magento2-module",
-  "minimum-stability": "dev",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -17,5 +17,7 @@
     "psr-4": {
       "SessionCrt\\InfoSess\\": ""
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
 }
