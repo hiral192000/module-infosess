@@ -1,7 +1,7 @@
 {
   "name": "hiral192000/module-infosess",
   "description": "Magento 2 sesstion examples",
-  "version": "2.4.1",
+  "version": "1.0.0",
   "require": {
     "php": ">=7.3.0"
   },
